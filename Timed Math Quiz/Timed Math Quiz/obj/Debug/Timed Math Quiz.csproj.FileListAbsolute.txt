@@ -1,0 +1,21 @@
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csprojAssemblyReference.cache
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.Form1.resources
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.Properties.Resources.resources
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.GenerateResource.cache
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.CoreCompileInputs.cache
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe.config
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.pdb
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.exe
+D:\Ishandocument\AUSTFiles\SD-31\Timed Math Quiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.pdb
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe.config
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.exe
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\bin\Debug\Timed Math Quiz.pdb
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.HomePage.resources
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.QuizPage.resources
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed_Math_Quiz.Properties.Resources.resources
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.GenerateResource.cache
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csproj.CoreCompileInputs.cache
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.exe
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.pdb
+D:\Ishandocument\AUSTFiles\SD-31\TimedMathQuiz\Timed Math Quiz\obj\Debug\Timed Math Quiz.csprojAssemblyReference.cache
